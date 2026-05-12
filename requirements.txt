@@ -5,3 +5,7 @@ requests
 yfinance
 statsmodels
 cvxpy
+
+alpaca-py
+schedule
+python-dotenv
